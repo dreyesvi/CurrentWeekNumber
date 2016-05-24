@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setViews();
     }
 
+
     /**
      * Method to init views and their listeners
      */
